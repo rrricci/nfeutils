@@ -1,0 +1,19 @@
+{
+    "name": "rrricci/nfeutils",
+    "description": "NFeUtils",
+    "authors": [
+        {
+            "name": "Renato Ricci",
+            "email": "anonimo@test.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "autoload": {
+        "classmap": [
+            "./DateTime/"
+        ]
+    }
+}
