@@ -15,5 +15,5 @@
             "./DateTime/"
         ]
     },
-	"minimum-stability": "1.0-stable", "prefer-stable": true
+	"minimum-stability": "1.0.*", "prefer-stable": true
 }
