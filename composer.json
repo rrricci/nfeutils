@@ -15,5 +15,6 @@
         "classmap": [
             "./DateTime/"
         ]
-    }
+    },
+	 "minimum-stability": "dev"
 }
